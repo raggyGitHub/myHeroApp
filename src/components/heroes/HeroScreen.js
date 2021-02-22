@@ -36,7 +36,7 @@ export const HeroScreen = ({ history }) => {
 				<img
 					className="img-thumbnail animate__animated animate__fadeInLeft"
 					alt={superhero}
-					src={`../assets/heroes/${heroeId}.jpg`}
+					src={`https://github.com/raggyGitHub/myHeroApp/blob/main/public/assets/heroes/assets/heroes/${heroeId}.jpg`}
 				/>
 			</div>
 			<div className="col-8">
